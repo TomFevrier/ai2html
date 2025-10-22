@@ -44,7 +44,7 @@ function main() {
 // - Update the version number in package.json
 // - Add an entry to CHANGELOG.md
 // - Run 'npm publish' to create a new GitHub release
-var scriptVersion = '0.123.3';
+var scriptVersion = '0.123.4';
 
 // ================================================
 // ai2html and config settings
@@ -178,7 +178,7 @@ var nytBirdkitEmbedSettings = {
   "dark_mode_compatible": false,
   "create_json_config_files": true,
   "create_promo_image": false,
-  "credit": "By The New York Times",
+  "credit": "The New York Times",
   "aria_role": "img",
   "alt_text": "",
   "page_template": "vi-article-embed",
@@ -231,7 +231,7 @@ var nytPreviewEmbedSettings = {
   "create_config_file": true,
   "config_file_path": "../config.yml",
   "create_promo_image": true,
-  "credit": "By The New York Times",
+  "credit": "The New York Times",
   "aria_role": "img",
   "alt_text": "",
   "publish_system": "scoop",

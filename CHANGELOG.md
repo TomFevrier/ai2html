@@ -1,3 +1,6 @@
+### v0.123.4
+- Changed NYT credit to "The New York Times"
+
 ### v0.123.3
 - Bug fix: `output:multiple-files` doesn't pick up multiple artboard sizes correctly. 
 
